@@ -1,11 +1,12 @@
 {
   "name": "ggc-side-menu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/gemmagc89/ggc-workspace"
   },
   "keywords": ["gemma", "ggc", "do-not-use"],
+  "license": "MIT",
   "author": "Gemma Gomez Cases",
   "bugs": {
     "url": "https://github.com/gemmagc89/ggc-workspace/issues"
