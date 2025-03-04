@@ -18,6 +18,8 @@ export enum TitleColor {
 export class GgcSideMenuComponent {
   isAuthenticated = input(false);
 
+  title = input('GGC');
+  subTitle = input('Corp');
   titleColor = input<TitleColor>(TitleColor.purple);
 
   signOut = output();
